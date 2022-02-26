@@ -1,0 +1,748 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a book, titled, Quakers principles quaking: subscribed by the name of one Ralph Hale, with an epistle (so called) to the reader, subscribed with the name of one Zachariah Crofton. A principle of darkness, deceit, and confusion in Ralph Hale, and his fellow labourer in Sathans work Zachariah Crofton, is discovered by the Quakers principle, and the Quakers principle doth stand against the power of darkness, and all the false principles in the world, them to discover and lay open. The book was said to be modestly propounded by Ralph Hale, but in it I found so many lies, slanders, and false accusations, with confused, vain, and frivolous words, as many of them is not worth mentioning; yet, lest the author should boast in his mischief, I shall lay down somthing in answer to some few of them, in respect of the number of them. / A servant to the least in the houshold of faith, and the lest amonst his brethren, whose name in the flesh is William Adamson.</title>
+            <author>Addamson, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75872</idno>
+            <idno type="STC">Wing A501</idno>
+            <idno type="STC">Thomason E897_3</idno>
+            <idno type="STC">ESTC R206690</idno>
+            <idno type="EEBO-CITATION">99865806</idno>
+            <idno type="PROQUEST">99865806</idno>
+            <idno type="VID">168433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168433)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E897[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a book, titled, Quakers principles quaking: subscribed by the name of one Ralph Hale, with an epistle (so called) to the reader, subscribed with the name of one Zachariah Crofton. A principle of darkness, deceit, and confusion in Ralph Hale, and his fellow labourer in Sathans work Zachariah Crofton, is discovered by the Quakers principle, and the Quakers principle doth stand against the power of darkness, and all the false principles in the world, them to discover and lay open. The book was said to be modestly propounded by Ralph Hale, but in it I found so many lies, slanders, and false accusations, with confused, vain, and frivolous words, as many of them is not worth mentioning; yet, lest the author should boast in his mischief, I shall lay down somthing in answer to some few of them, in respect of the number of them. / A servant to the least in the houshold of faith, and the lest amonst his brethren, whose name in the flesh is William Adamson.</title>
+                  <author>Addamson, William, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at his shop at the Black Spread-Eagle, near the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 20th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hale, Ralph. --  Quakers principles quaking --  Early works to 1800.</term>
+               <term>Crofton, Zachary, 1625 or 6-1672 --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168433:1" rendition="simple:additions"/>
+            <p>An Anſwer to a Book, Titled, <hi>Quakers Principles Quaking:</hi> Subſcribed by the name of one <hi>Ralph Hale,</hi> with an Epiſtle (ſo called) to the Reader, ſubſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibed with the name of one <hi>Zachariah Crofton.</hi>
+            </p>
+            <p>A principle of darkneſs, deceit, and confuſion in <hi>Ralph Hale,</hi> and his Fellow labourer in Sathans work, <hi>Zacha<g ref="char:EOLhyphen"/>riah Crofton,</hi> is diſcovered by the Quakers principle, and the Quakers principle doth ſtand againſt the power of darkneſs, and all the falſe principles in the world, them to diſcover and lay open.</p>
+            <p>The Book was ſaid to be modeſtly propounded by <hi>Ralph Hale,</hi> but in it I found ſo many lies, ſtanders, and falſe accuſations, with confuſed, vain, and frivolous words, as many of them is not worth menti<g ref="char:EOLhyphen"/>oning; yet, leſt the Author ſhould boaſt in his miſchief, I ſhall lay down ſomthing in Anſwer to ſome few of them, in reſpect of the number of them.</p>
+            <q>
+               <bibl>
+                  <hi>Pſalm 9.15.</hi>
+               </bibl> The Heathens are ſunk down into the pit that they made, in the Net which they hid, is their own foot taken.</q>
+            <p>
+               <hi>A ſervant to the leaſt in the Houſhold of Faith, and the leaſt amongſt his Brethren, whoſe name in the fleſh is</hi> William Adamſor.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſold at his Shop at the Black Spread-E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gle, near the Weſt end of <hi>Pauls,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168433:2"/>
+            <pb n="1" facs="tcp:168433:2"/>
+            <head>Somthing in Anſwer to <hi>Zachariah Crofton,</hi> and his Epiſtle, as he calls it.</head>
+            <p>
+               <hi>ZAchariah Crofton,</hi> How far art thou from the ex<g ref="char:EOLhyphen"/>ample of Chriſt, who when he was reviled, he re<g ref="char:EOLhyphen"/>viled not again; but thou haſt here reviled them, that never reviled thee, and thine eyes did never ſee many of thoſe call<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Quakers whom thou haſt reviled, and called them Revilers; Is that the work of a plain man, that poſſeſſeth an honeſt heart, which thou haſt reported thy ſelf to be one of, in thy Epiſtle, as thou calleſt it, but it is both the wiſdom and praiſes of a plain man, poſſeſſing an honeſt heart, to let another man praiſe him, and not his praiſes come from his own mouth, as thine doth.</p>
+            <p>Prieſt. <hi>And firſt thou ſaith to the Reader, if he had been in any meaſure ſenſible of the Worlds Age, and time of the Church in which we have our being, and ſeriouſly obſer<g ref="char:EOLhyphen"/>vant of the Diſpenſations of Providence ſutable to the ſeaſons, he could not but have ſeen Gods ſeverity, and Sa<g ref="char:EOLhyphen"/>thans ſubtilty, as much as in any Age of the World.</hi>
+            </p>
+            <p>
+               <hi>Anſ. Zachariah Crofton,</hi> In this which thou calls thy Epiſtle, thou haſt manifeſted thy ſelf that thou haſt not thy being in the Church which is in God, but of the Synagogue of Sathan, and without God in the world; thou manifeſt thy ſelf to have thy being, in that thou vents forth thy ve<g ref="char:EOLhyphen"/>nome,
+<pb n="2" facs="tcp:168433:3"/>and ſpues out thy poiſon in thy words, proceeding from the ſmoak of the bottomleſs pit: and if the Reader do ſeriouſly obſerve thy Epiſtle (as thou calls i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) he may ſee a bitter inveterate ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit of rage and malice lodged in thee, and as much of Sathans r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge as poſſibly can be ut<g ref="char:EOLhyphen"/>tered in ſo much paper: like that wicked <hi>Tertullus,</hi> who ſaid the Apoſtle was a peſtilent fellow, when indeed it was his own condition; and ſo it is here with thee, for what thou ſeems to caſt upon us, it is due to thy ſelf; and if I ſhould ſay no more in anſwer to thy Epiſtle but this, that what thou would caſt upon us, it is thy own portion, yet the anſwer were juſt and undeniable, to all who have the eye of diſcerning open in any meaſure.</p>
+            <p>Prieſt. <hi>And then thou goes on with an accuſation, but haſt not laid down at whom thy ſting is ſhot for ſome ſpace, and then thou begins to puſh with thy horns like a curſed Goat, at the Lambs of Chriſt, who in diſdain are called</hi> Quakers; <hi>and thou ſays, Yet in all this hath not Gods ſe<g ref="char:EOLhyphen"/>verity ſo much appeared as in the late upſtart</hi> Quakers, <hi>by whom the Divel comes ſtealing into the Field,</hi> ſaith thou.</p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> I do believe that not only thou, but all the Pariſh-maſters in <hi>England</hi> may truly ſay of that people called Quakers, as <hi>Ahab</hi> ſaid of <hi>Micaiah,</hi> You hate them, for they never propheſied good to you, for keeping up tythes, hire, and augmentations; and Chriſt now being manifeſt in his ſervants, it is not ſtrange that thou ſhould call him the Divel, it is but the ſame title that thy Fore-fathers the Phariſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gave him; and being man<g ref="char:EOLhyphen"/>feſt in his ſervants, he doth ſo torment the god of this world in he hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, that they cry loud for their gains from their quarters, as the manner of the greedy dogs ever was.</p>
+            <p>Prieſt. <hi>Yet now to us how do they prevail? Too too much with too too many,</hi> ſaith thou.</p>
+            <pb n="3" facs="tcp:168433:3"/>
+            <p>
+               <hi>Anſw.</hi> I ſay yet, for all that your blind eyes cannot ſee Gods hand in it lifted up againſt you <hi>Phar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h</hi> like ones, and his divine providence, in carrying on his own work, though you oppreſs the ſeed as much as you can, yet it increaſeth ſo much the more, to the glory of God, and the torment of the Beaſt in you is begun.</p>
+            <p>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieſt. <hi>They are to be pitied, not hated; they are to be prayed for, not preached unto; for the Divel that poſſeſ<g ref="char:EOLhyphen"/>ſeth them is ſuch as can be cast out by no other means ſave Faſting and Prayer,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> If thine eyes were but opened to ſee how thy own poor ſoul lieth in the death, thou would have then much cauſe to take thy pity a little rearer thee, and pity thy ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf; for thy pity we diſown, I believe it will prove not worth receiving: and for thy prayers, we do deny them; for <hi>the prayers of the wicked God will not hear;</hi> Iſa. 1.15. John 9.31. and thou talks of Faſting, to caſt out Divels; I ſay, what now? Wilt thou own Faſting? Is it not ſuperſtition with thee? Did thou not term it as ſuperſtition when we faſted, and now it ſerves thee to make a talk of thy ſelf? But I will tell thee, if thy prayers and thy faſting will caſt out Divels, turn thine eye home within, and caſt out legion the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e firſt; but I believe thou w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll but caſt out a few Divels, or none at all; for Chriſt ſaid, if Sathan caſt out himſelf, he is di<g ref="char:EOLhyphen"/>vided aga<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt himſelf. If thou haſt an ear, thou may h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar.</p>
+            <p>Prieſt. <hi>And thou ſaiſt indeed, Amongst other grounds of our compaſſion, this is not the leaſt, that they enjoy too much liberty, ſayeſt thou, and thou ſeems to be trou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led at it, that men will not ſhew us ſuch pity, as to ſubject us to a Bedlam diſcipline.</hi>
+            </p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> It ſeems thy compaſſion would not afford us our l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>berty, and if thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad as much power in thy hands, as thou ſeems to have of a cru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſort of pity in thy heart, thou would bring us to a Bedl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Di<g ref="char:EOLhyphen"/>ſcipline:
+<pb n="4" facs="tcp:168433:4"/>I ſay, if this be thy compaſſion and pity, let i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be to thy ſelf, it is fit thou ſhould be pitied firſt thy ſelf, ſeeing thou would take ſuch pity on ſtrangers whom thou knows not; and if thou chance to take thy lodging in that place where thou wouldſt have us pitied, then remember that God is juſt, in reaching thee a taſte of <hi>Hamans</hi> cup; and if God had not put a Bit into thy jaws, and a hook in<g ref="char:EOLhyphen"/>to thy Noſtrils, to draw thee back from thy cruelty, and ſo limited and chained the power of the murthe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing prince of darkneſs in thee; I pray thee what height of miſchief would thy cruelty have reached unto where it l ghts, if thou had power to act it, ſeeing thy compaſſion and pity would not afford a harmleſs and deſpiſed people their li<g ref="char:EOLhyphen"/>berty, but thy pity would ſubject them to a Bedlam Di<g ref="char:EOLhyphen"/>ſcipline? Here thou ſhews thy ſelf to be of thy old grand<g ref="char:EOLhyphen"/>father <hi>Cain,</hi> who was active in miſchief and murther, a cruel and envi us man, like thy ſelf; but here thou truly fulfils that Scrip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure <hi>Prov.</hi> 12.10. <hi>The tender mercies of the Wicked are cruel.</hi>
+            </p>
+            <p>Prieſt. <hi>And thou vents forth a long Oration of foaming ſmoaky words, in reviling the Light, with as ſcornful Titles as poſſibly the Divel can invent; and thou ſayeſt, The Light drives the ſoul from every duty.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay for the ſoul, firſt know what it is before thou talk of its Daties; and firſt know thy own duty, to ceaſe from lying, for that the light drives the ſoul from eve<g ref="char:EOLhyphen"/>ry duty, that is one of thy lies; it is darkneſs that drives from good duties, and not the light.</p>
+            <p>Prie. <hi>The ſubjects of it ſanctifies no Sabbaths,</hi> ſaith thou.</p>
+            <p>
+               <hi>Anſw.</hi> I ſay, whether we who are called Quakers, or you who accuſe us of Sabbath-breaking, do more truly ſanctifie a Sabbath, let all that read theſe following words conſider: Firſt, Do not your hireling pariſh-maſters on that day that you call your Sabbath, ſell the ſtuff that they have ſtolen and bundled together, I mean their Sermons, as
+<pb n="5" facs="tcp:168433:4"/>they call them; ſome ſay they invent them by ſtudy, but I ſay they rather gather them by ſtealth out of old Au<g ref="char:EOLhyphen"/>thors, and other men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> labours; and ſo are they that ſteal the word from their Neig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urs, and ſay, the Lord ſaith it; and the Lord never ſpoke to them: And do not they take fifty pounds, an hundred two or three in the year, more or leſs, as they can get, for the work that they generally do on that day? Do they not make it their Market day to ſell their ſtuff on? Is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to ſanctifie a Sabbath to the Lord? And do not the people that follow them, and ſo much cry them up, think their own thoughts, ſpeak their own words, and do their own works on that day? Nay, Do not many of them uſe vain drinking, vain gaming and ſporting on that day? Will they not go to a Steeple-houſe one part of that day, and ſpend the reſt of it on their own luſts or labours? Is this to ſanctifie a Sabbath to the Lord? And thus both prieſt and people are profane: And whether do you believe that Chriſt ſuffered, and roſe again, by which the worſhip was taken from the ſeventh day, yea or nay? And if Yea, then do thou prove where it was tyed to one day above another again, by any command in Scri<g ref="char:EOLhyphen"/>pture, as a day in ſeven; The Apoſtles held their meeting on the firſt day of the week, and on other days of the week, and ſo do we; what haſt thou now againſt us concerning the ſanctifying of a Sabbath? We wait on the Lord in fi<g ref="char:EOLhyphen"/>lence, as his Spirit guides us; and we worſhip him in Spi<g ref="char:EOLhyphen"/>rit, and as he reveals his word to us, we ſpeak as his Spirit gives us utterance, both in praiſes and in prayers to our God on the day which he hath choſen to himſelf; and ſo do we celebrate an everlaſting Sabbath unto the Lord our God, on the m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unt of his Hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, where the day is with<g ref="char:EOLhyphen"/>out night</p>
+            <p>Prieſt. <hi>Seeks not God at any time in Prayer,</hi> ſaith thou.</p>
+            <p>
+               <hi>Anſw.</hi> I ſay that is another of thy lies, as they can w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:EOLhyphen"/>neſs who have been at our meetings.</p>
+            <pb n="6" facs="tcp:168433:5"/>
+            <p>Prieſt. <hi>Craves not ſo much as a bleſſing on their meat and drink,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw.</hi> That is another of thy lies, as many can witneſs who have eaten with us, though we do not utter words outwardly at all times that we eat, according to the ex<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctation of ſome men, whoſe tongues are at their own or other mens command, who have not the word imme<g ref="char:EOLhyphen"/>diate from the Lord, but their own invented words, and ſo they can utter that when they pleaſe; or if another man bid them, when he pleaſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, then they can either crave a bleſſing, or give thanks, as ye call it; and ſuch craving as this, which ſtands not in Gods counſel, but in m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns cu<g ref="char:EOLhyphen"/>ſtoms, faſhions, and wills, we do utterly deny; and the example of Chriſt we own, whoſe example we follow in our meaſures, to the gl ry of his praiſes.</p>
+            <p>Prieſt. <hi>In a word, it throws off every Act of Religion,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw.</hi> It ſeems that the Father of lies is ſo fully ſeated in thee, that he hath brought thee to his will, to vent forth thy lies, for this is another of them; the light keeps all them that are guided by it, in the pure Religion, to relieve the ſtrangers, widdows, and fatherleſs; and the light keeps them unſpotted of the world, who are guided by it: and the light denies all hypocrites and lyars, like thy ſelf, who hath not power over their words, all whoſe Religion is vain.</p>
+            <p>Prieſt. <hi>And thou accuſeſt us, that we reprove the very worſhip of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> if the worſhip of God had ſtood in lying, thou had been grown very high in it, and that God that gives thee to vent forth theſe lies, and his worſhip we do reprove and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny: and the God Truth, and holineſs, and his worſhip, which ſtands in ſpirit and truth, which Chriſt ſpeak o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we do own; but the worſhip of the god of this world, which ſtands in mens wills, in out<g ref="char:EOLhyphen"/>ward
+<pb n="7" facs="tcp:168433:5"/>forms, times, and cuſtoms, obſerving of days, moneths and times, of eating and drinking, and out-ſide waſhings, ſprinklings, dippings, plungings, and the like outward, dead, helpleſs, and needleſs ſhadows we do reprove, and do deny them.</p>
+            <p>Prieſt. <hi>And thou accuſeth us, that we reprove Prayer, Reading, Hearing, Receiving of Sacraments, and ſo forth.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay, that ever we reproved the prayers of the righteous, that is another of thy lies; for we own it both in heart and voice, but the Prayers of ſuch liers as thou art, and vain repetition of words, we reprove and do deny them: and for thy ſaying that we reprove Reading and Heari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, that is more of thy lies; for reading of the Scri<g ref="char:EOLhyphen"/>pture, and hearing of them read in the meaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of the Spi<g ref="char:EOLhyphen"/>rit that gave them forth, we do own: and for receiving of Sacraments, for which there is no Scripture, we re<g ref="char:EOLhyphen"/>prove and do deny it, and return them back to the Pope who invented many of them; and the true Baptiſme and the Lords Supper according to the Scripture we own.</p>
+            <p>Prieſt. <hi>Even all the practiſes of Piety they decry,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> that is another of thy lies; thou labours hard to get thy meaſure full; where did ei<g ref="char:EOLhyphen"/>ther thou, or any man elſe, hear any of us ſpeak againſt a godly and pious life, but thy practiſe of lying we do decry: what a neſt of lies haſt thou hatched here in a matter of fourteen lines compaſs?</p>
+            <p>Prieſt. <hi>And whereas thou ſayeſt they leave all men in the dark what they mean by their light.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay, we mean by the light what <hi>John</hi> and Chriſt ſpoke of it, and the light which we own and ſpeak of, is the light of Chriſt Jeſus, the everlaſting Covenant of light in him was life, and that life was the light of men; this is the light which we own and ſpeak of; and though
+<pb n="8" facs="tcp:168433:6"/>it ſhines in the darkneſs, yet thou natu al man, who loves darkneſs, and delights in lies, thou doſt not perceive the things of the Spirit of God; for the light, if thou love it, it will lead thee out of darkneſs, and out of ſuch curſed ly<g ref="char:EOLhyphen"/>ing as thou lives in: and if thou walk contrary to it, it is thy c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndemnation to condemn thee for ever from the Lord God, and from the glory of his preſence; and though thou now lives in thy envie and miſchief, inventing of lies, yet when the day of thy trouble cometh, then ſhal thou know what is meant by this, except with ſpeed thou repent.</p>
+            <p>Prieſt. <hi>Doth the light of Nature give liberty to women to be common Controulers, and ordinary ſpeakers,</hi> ſaith thou?</p>
+            <p>
+               <hi>Anſw. Zachariah Crofton,</hi> (Whatever) that which thou c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls the light of Nature gives, yet God gave liberty to the male and to the female to have dominion over the Beaſts, therefore the female may controul the Serpent where-ever he is; his head muſt be broken by the ſeed of the woman: and I tell thee, as pure glad tydings as ever was preached to mankinde, that was a living Chriſt riſen from the Sepulcher, was firſt declared by <hi>Mary</hi> unto men, before the men knew it; and would not that which thou calls the light of Nature, have given liberty to <hi>Mary</hi> to ſpeak, then (if it would not) it is nothing but darkneſs put for light.</p>
+            <p>Prieſt. <hi>But is not ſilence the duty impoſed, and property adorning that Sex,</hi> ſayeſt thou?</p>
+            <p>
+               <hi>Anſw.</hi> For the Sex thou may take it to thy ſelf, for thou talks like a Sectarian; but for ſilence, it neither is, nor ne<g ref="char:EOLhyphen"/>ver was impoſed upon all the Female; <hi>Your Daughters ſhall Propheſie ſaith the Lord:</hi> Joel 2.28. <hi>I permit not a woman to ſpeak in the Church,</hi> ſaith the Apoſtle; I ſay, no more do we, but we permit Chriſt, who is one in the male and in the female, to ſpeak in his Temple, whether in male or in female: and doſt thou not believe that Chriſt
+<pb n="9" facs="tcp:168433:6"/>ſhall be formed, as in the male, ſo in the female: and if ſo, then who art thou that would impoſe the women to ſi<g ref="char:EOLhyphen"/>lence, when Chriſt is formed in them? <hi>Paul</hi> writ to thoſe women that helpt him in the Goſpel: thoſe are the ſelf lovers, covetous, boaſters, and proud blaſphemers, and houſe-creepers, that would keep ſilly women ever learning, and never come to the knowledge of the truth: ſee 2 <hi>Tim.</hi> 2. to 8. and ſeeing you ſay ſilence is the duty impoſed on them, ſee that you be no more angry with them for not ſpeaking to you, when nothing but your wills requires it.</p>
+            <p>Prieſt. <hi>But will not the Heathens reject the Religion which is inforced with feminine voice,</hi> ſayeſt thou?</p>
+            <p>
+               <hi>Anſw.</hi> I ſay yea, the heathens will reject it; that is proved in thee, and many more of the heathens in <hi>England,</hi> you both reject and rage againſt the pure Religion, with what voice ſoever it comes; but they who are not hea<g ref="char:EOLhyphen"/>thens, that knows God, they receive it in due time, though you heathens reject it, and rage and roar at them for re<g ref="char:EOLhyphen"/>ceiving of it.</p>
+            <p>Prieſt. <hi>But they go from Country to Country, and from Nation to Nation,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw.</hi> I ſay, is that any thing but what <hi>Daniel</hi> ſaid ſhould come to paſs? <hi>Many ſhall run to and fro, and knowledge ſhall be increaſed,</hi> Dan. 12.4. But I believe the greateſt thing that troubles thee, and all the Pariſh-maſters in <hi>England</hi> in their going, is this, they are often moved to declare againſt hypocrites, and ſuch as ſeek their gains from their quarters, as tythe, hire, and augmentations; if they did but cry this up as much as they cry it down, would they not be more born with by the pariſh maſters? give an honeſt true anſwer.</p>
+            <p>Prieſt. <hi>And thou ſayeſt, They curſedly revile, rather then convincingly reprove.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay, that is falſe, it is the fool that ſaith ſo, for whoſe back the rod is prepared; he hath reproof, and
+<pb n="10" facs="tcp:168433:7"/>terms it as curſed rayling; yet if they did rail, as they do not, thou ſhould not have judged them for it, left whilſt thou judgeſt them, thou condemneſt thy ſelf; for haſt thou not called them black mouths, poſſeſſed with Divels, and the like? Is not this railing language that thou uſeth to others? For ſhame ſpeak againſt railing no more, till thou haſt reformed it in thy ſelf, for thou art inexcuſable O man that judgeſt another, and doſt the ſame things thy ſelf, for in that thou judgeſt them, thou condemneſt thy ſelf, <hi>Rom.</hi> 2.1. Read thy portion here, and own it, it is pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n enough, and due to thee.</p>
+            <p>Prieſt. <hi>And thou bids the Reader give thee leave to preſcribe him ſome few Ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es for his preſervation; and firſt thou bids him ſet Reaſon in its Throne, and thou talks of rational faculties and powers of diſcerning, diſcovering and determining the things which God and Nature hath given him; for obſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve</hi> (fayeſt thou) <hi>the Divel blinds this eye, and de-thrones this Judge, when he advanceth the pre<g ref="char:EOLhyphen"/>tended light.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſay to the conſuming lake, with all the robbers that thou advanceth and ſetteth up to judge and determine that which God gives; Art thou ſetting up reaſon, and thou knows not what to judge? Muſt any thing be Judge but Chriſt alone? Is n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l judgement given to the Son of God? Yea, and curſed thou art that ſets up any thing elſe to judge and determine the things that God gives: and for Nature, let that be ſilent in giving good gifts, good gifts are the gifts of God alone, there is nothing elſe gives them, though thou would ſet up nature as another giver, and in the naturals thou art, a natural man, and perceives not the things of the ſpirit of God, and to thee they are fooliſhneſs, as they were to thy fore-fathers.</p>
+            <p>Prieſt. <hi>When you are mad, you may be brought to do any thing,</hi> ſayeſt thou.</p>
+            <p>
+               <hi>Anſw.</hi> I ſay we think it not ſtrange that thou ſhouldeſt
+<pb n="11" facs="tcp:168433:7"/>term us as mad-men; it is no more then the Phariſees thy fore-fathers ſaid of the Apoſtle <hi>Paul,</hi> and Chriſt himſelf; and we muſt expect the ſame portion from the ſame gene<g ref="char:EOLhyphen"/>ration of vipers and evil doers, and it is our joy, that with Chriſt we may ſuffer and reigne.</p>
+            <p>
+               <hi>Many more of thy reproachful lies and falſe ſlanders might I mention; as thy ſaying we diſ-own the Scri<g ref="char:EOLhyphen"/>ptures, and the like; but thus ſhall I leave thy bundle of lies, and reproachful falſe and vilifying words, and proceed to</hi> Ralph Hales <hi>book, and ſee what ſtuf is there<g ref="char:EOLhyphen"/>ïn, and of what force it is.</hi>
+            </p>
+            <div type="part">
+               <p>
+                  <hi>RAlph Hale,</hi> I have peruſed thy book over, and in the front, or firſt words that I found, thou ſeems to me very highly to boaſt of ſome great piece of work done by thee, by which the Quakers principles, as thou calls them were like to be overthrown; Titleing thy Book, <hi>Qua<g ref="char:EOLhyphen"/>kers Principles quaking;</hi> But now if it fall out with thee as it did with <hi>Haman,</hi> thou maiſt blame thy ſelf for it; and if thy own weapons do cut off the head of thy boaſt<g ref="char:EOLhyphen"/>ing, then remember what <hi>David</hi> did to <hi>Goliah.</hi>
+               </p>
+               <p>Hale. And in the Title page thou ſaith, <hi>Modeſtly pro<g ref="char:EOLhyphen"/>pounded by</hi> Ralph Hale, <hi>an affectionate lover of Truth, Admirer of ſincere ſaving light,</hi> &amp;c.</p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> If this be thy modeſty in which thou haſt propounded this ſtuff in thy book, thou may yet go and learn what modeſty is; for here all may take no<g ref="char:EOLhyphen"/>tice of thy groſs darkneſs and confuſion: Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ſai h thou loves the Truth, and yet admires of ſincere ſaving light; I ſay, obſerve theſe following words; Chriſt ſaid, <hi>I am the Truth and the Life;</hi> John 14.6. and <hi>John</hi> ſaid, <hi>That life was the light of men,</hi> John 1.4. and Chriſt himſelf ſaid, <hi>I am the light:</hi> John 8.12. Obſerve here, Chriſt
+<pb n="12" facs="tcp:168433:8"/>ſaid, I am the Truth; and Chriſt ſaid, I am the light: and to us this light is ſincere, true, and ſaving, though thou ad<g ref="char:EOLhyphen"/>mires thereof as thou ſaith: Now all may take notice what love thou haſt to the truth, that puts a difference between the truth and the light; and ſaith, Thou art a lover of the one, and yet an admirer of the other: but if thou had lo<g ref="char:EOLhyphen"/>ved the truth, or known it, thou had loved the ſincere ſaving light alſo, for Chriſt is the Truth, and Chr ſt is the ſincere ſaving light: and thou ſaith thou admires of ſin<g ref="char:EOLhyphen"/>cere ſaving light, but thou art not the firſt that was of that generation that were deſpiſers, wonderers, and admirers of Chriſt, who is the ſincere ſaving light: <hi>Herod</hi> thy fore<g ref="char:EOLhyphen"/>father, and all Jeruſalem with him, were put into as great admiration and trouble as poſſibly thou can be now, when they heard of Chriſt who is the ſincere ſaving light: Repent thou with ſpeed leſt thy end be like <hi>Herods.</hi>
+               </p>
+               <p>But before I go any further, remember that in the 25th page, there ſpeaking of the Scriptures, to be the Law and Teſtimony, thou ſayeſt, what ever pretended colour you put upon it, if it be not Law and teſtimony proof, I ſhall give no credit to it, ſaith thou; Now I ſay, if that which thou affirms in thy Book cannot be proved by Scripture, thou ſhould not think much at me for denying it, and turning it on thee again as falſe, ſeeing thou haſt owned the Scripture as the Rule and Touchſtone to try words by, and except thou be a lyar, thou wilt give no credit to what thou haſt affirmed that cannot be proved by Scripture.</p>
+               <p>And in four pages thou prints the Quakers paper, as thou calls it: and in the fifth page, where thou ſpeaks of an anſwer to it, thou arr talking of the bended knees of thy ſoul.</p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> here I charge thee to be one that ſpeaks of what thou knows not, in ſpeaking of the ſoul; and whether thou ſpeaks good or evil of it, thou ſpeaks of what thou knows not: and in the Title page of thy book
+<pb n="13" facs="tcp:168433:8"/>thou ſayeſt, they ſpeak evil of what they do not know; take that to thy ſelf, and own it, until thou can give an account what thine own ſoul is.</p>
+               <p>
+                  <hi>Hale. And thou ſayeſt thou looks upon it to be very dangerous piece, to break and rend our ſelves from the Church of God.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, ſo do I too; but to depart from hypo<g ref="char:EOLhyphen"/>crites, and falſe hirelings, and ſuch as ſeek their gain from their quarters, which the Prophet called Dogs, and ſuch as Chriſt declared againſt, who have Greetings in the Market, and are called of men Maſters, I count it no dan<g ref="char:EOLhyphen"/>ger to depart from ſuch, but a good duty, which the Scri<g ref="char:EOLhyphen"/>pture joyneth upon us; for after the Apoſtle hath reckon<g ref="char:EOLhyphen"/>ed up ſeveral evil workers, he ſaith, <hi>from ſuch turn away.</hi> 2 Tim. 3.5.</p>
+               <p>Hale. <hi>And thou ſayeſt, thou art able in ſome meaſure to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtinguiſh between the Word of God, and God the Word.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, the Father and the Son is one, and the Son of God is the Word of God, <hi>Rev.</hi> 19.13. his name is called the Word of God, and the childe of God will give that name to none but the Son of God alone; for <hi>the fa<g ref="char:EOLhyphen"/>ther hath given him a name above every name,</hi> Eph. 2.9. and whereas thou haſt ſaid thou art able to diſtinguiſh be<g ref="char:EOLhyphen"/>tween the Word of God, and God the Word, and yet haſt laid down no diſtinction how they may know the one from the other by their ſeveral grounds, foundations, and natures, ſeveral operations and workings in the creature, and what difference betwixt them, and how it may be known; I ſay thou art but a proud boaſter, a ſayer, and not a doer; when thou ſhould lay down thy diſtinctions, thou puts it off with a ſhuffle, and talks of the Bible being the external Word, and ſuch ſtrange words as theſe, and ſo ſaith nothing to the purpoſe.</p>
+               <p>Hale <hi>And whereas thou affirms the Bible to be the Word of God or the external Word, as ſomtimes thou terms it.</hi>
+               </p>
+               <pb n="14" facs="tcp:168433:9"/>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> why wilt thou talk of the Bible being the Word of God, or the external Word, for thou wilt give no credit to what thou haſt ſpoken, except thou be a lyar, for thou haſt made that null and void by thy own rule in thy book, that is not law and teſtimony proof, there is no Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pture that ſaith the Bible is the Word of God, or the external Word; and in the 25. page of thy Book thou ſayeſt, if it be not Law and Teſtimony proof, thou wilt give no credit to it: and I ſay, thou had as good prove thy ſelf a cheat, as yet again prove thy ſelf a lyar.</p>
+               <p>Hale. <hi>And in the 6 and 7 pages thou art reckoning up thoſe Titles that God gave to his Miniſters both of the Law and Goſpel, as thou ſayeſt.</hi>
+               </p>
+               <p>
+                  <hi>Anſw, Ralph Hale,</hi> What have ſuch hypocrit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, dogs, and hirelings as ſeek their gain from their qua te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, to do with thoſe Titles that God gave to his Miniſters that abode in his Doctrine? And what haſt thou to do to give thoſe Titles to them that practiſe the ſame things that the dogs and hirelings did? For when Chriſt found ſuch as ſtood praying in the Synagogues, and had greetings in the Mar<g ref="char:EOLhyphen"/>kets, he gave them the Title of hypocrites, and forbade their waies, and the ſame Spirit will give them that do the ſame things, the ſame Titles now.</p>
+               <p>Hale. <hi>And thou ſays, May we not conclude with our Saviours own words, He that hears you, hears me; and he that deſpiſeth you, deſpiſeth me?</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> thou art in a great error or miſtake if thou think that Chriſt ſpake thoſe words to ſuch hypo<g ref="char:EOLhyphen"/>crites and hirelings as ſend men about their quarters to ga<g ref="char:EOLhyphen"/>ther them in Calves, and Geeſe, and young Swine for their preaching; they were not ſo ſwiniſhly minded that Chriſt ſpake thoſe words to, they coveted no mans gold nor ſil<g ref="char:EOLhyphen"/>ver, and if they had food and rayment, they would be therewith content; but the dogs will never be content, and here take heed thou have not called evil good, and
+<pb n="15" facs="tcp:168433:9"/>good evil: remember thou haſt denounced a wo in the Title page of thy book, to them that do ſo; and all who have an eye may here ſee that wo meet with thee, and everlaſtingly it is thy portion, except with ſpeed thou re<g ref="char:EOLhyphen"/>pent.</p>
+               <p>Hale. <hi>And in the</hi> 8 <hi>page thou ſayeſt, thou would gladly know whether we will acknowledge the whole Scripture to be the Word of God, or no, I mean the whole Bible, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, if thou mean that the whole B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble is the Word of God, I ſay Nay; for I do acknowledge no God but one, nor no word of God but one, and Chriſt is that Word, the Bible is no more then a true declaration of what it declares; the Bible <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a declaration of thoſe words that God ſpake, but not the whole Bible; ſome p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of it is a declaration of thoſe words he divel ſpake, <hi>Luke</hi> 4.3. &amp; 6. the divel ſaid unto him, <hi>If thou be the Son of God,</hi> &amp;c. and the divil ſaid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto him, <hi>All this power will I give thee:</hi> Is this the words of God, or the words of the divel? And further, if I ſhould ſay that the Bible were the Word of God, thou would give no credit to it, except thou be a lyar, for there is no Scripture ſaith ſo, and in the 25 page of thy book thou ſayeſt, if it be not Law and Teſtimony proof, thou wilt give no credit to it; for ſhame do not m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke thy ſelf a lyar, leſt whilſt thou goes about to make the Quakers Principles quake, thou break thy own in pieces.</p>
+               <p>Hile. <hi>And in the</hi> 7 <hi>page thou ſaid, the miniſters work is for the perfecting of the Saints, for the edifying of the Body of Christ, which is the Church, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, if the Miniſters work be for the perfect<g ref="char:EOLhyphen"/>ing of the Saints, and for the edifying of the Body of Chriſt, then ſee that thou do not deny perfection in this life, leſt thou leave the Miniſters neither time nor place to do their work in, for the work that the Miniſters doth,
+<pb n="16" facs="tcp:168433:10"/>they muſt do it in this life: <hi>The dead that die in the Lord reſt from their labours, and their works follow them:</hi> Rev. 14.13. there is no perfecting of the Saints in the grave: and for the Body of Chriſt, which thou ſayeſt is the Church, it is riſen from the grave, for the Church is in God, therefore ſee that thou do not leave the Miniſters their work to do after this life.</p>
+               <p>Hale. <hi>And in the tenth page line the</hi> 14. <hi>thou ſayest, (But you ſay this Law ſo much inſiſted upon, together with the Prieſthood of it, is changed, and the Commandment diſanulled, and this you bottom upon</hi> Hebr. 7.12. and 18. <hi>ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay here let all take notice, that the very ſame words that we bear witneſs to, that is the changing of the Law and Prieſthood, and the diſanulling of the Command<g ref="char:EOLhyphen"/>ments, and that on which we have bottomed it, as thou thy ſelf art forced to confeſs they are plain Scripture words without adding or diminiſhing, as they are written in <hi>Heb.</hi> 7.12. and 18. and here again let all take notice what Spi<g ref="char:EOLhyphen"/>rit thou ſpeaks from, that by thy inchantment would make it ſeem as though the Law and Prieſthood were not chan<g ref="char:EOLhyphen"/>ged, and the Commandments not diſanulled, except in ſuch ſancies and imaginations as thy vain mind can admit of and ſo would prove the Apoſtle a Lyar.</p>
+               <p>Hale. <hi>And whereas thou ſayeſt thou doſt affirm that Moſes, and the Prophets, and the Goſpel are all one in ſub<g ref="char:EOLhyphen"/>ſtance, and in effect the very ſame.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> thou doſt affirm that whereof thou knows nothing but by hear-ſay, thou never yet came to Chriſt, who is the Goſpel, and there is no other Goſpel, nor to the Prophets, nor to Moſes eſtate, but thou art be<g ref="char:EOLhyphen"/>tween <hi>Adam</hi> and <hi>Moſes,</hi> and there death reigns over thee, and if thou might not have talked of Moſes, the Prophets, nor the Goſpel, till thou had known Moſes to give a Law againſt ſin, and the tranſgreſſor in thee, and
+<pb n="17" facs="tcp:168433:10"/>the Prophets to denounce Gods judgements againſt ſin in thee, and the Goſpel of peace that makes free from ſin, we had not found ſo many Scriptures wreſted in thy Book, by adding thy curſed meanings, and the plagues of God muſt be added to him that adds.</p>
+               <p>Hale. <hi>And in page</hi> 11. <hi>line</hi> 15. <hi>thou ſayeſt, in reſpect of order of the Priesthood it is not changed; with the next words thou confutes that again; for (ſaith thou) Chriſt is a Prieſt for ever after the order of Meſchiſedec: and in page</hi> 15<g ref="char:punc">▪</g> 
+                  <hi>two of the laſt lines thou ſayeſt, Chriſt is a Prieſt not after the order of Aaron, but after the unchangeable order of Melchiſedec.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Is this the modeſty that thou talks of in the Title page of thy book, in which thou propounds this ſtuff? Thou here confeſſes that Chriſt is a Prieſt, not after the order of Aaron, but after the order of Melchi<g ref="char:EOLhyphen"/>ſedec: Now let all conſider whether the Levitical Prieſt<g ref="char:EOLhyphen"/>hood of Aarons order under which the Law was given to the people, was not changed when another Prieſthood was riſen, called by the name of another order, the one being called by the order of Aaron, and the other by the order of Melchiſedec, as in Heb. 7.11. which thou thy ſelf art forced to confeſs that Chriſt is a Prieſt not after Aarons or<g ref="char:EOLhyphen"/>der, but after the order of Melchiſedec; though before in page 11. line 19. thou ſaid in reſpect of the order of the Prieſthood it is not changed: And here all may take no<g ref="char:EOLhyphen"/>tice of thy ſpirit of conſuſion, and what ſaying and unſay<g ref="char:EOLhyphen"/>ing of a thing thou makes: But when the Leopard is with<g ref="char:EOLhyphen"/>out ſpots, then will that nature that thou lives in be with<g ref="char:EOLhyphen"/>out confuſion.</p>
+               <p>Hale. <hi>And thou ſayeſt, Tythes of Divine Right do be<g ref="char:EOLhyphen"/>long to the ſervants of Melchiſed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chs order.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, if Tythes belongs to the ſervants, then the Maſters have nothing to do with them, therefore ſee that you give not them to them that are called maſters; for by
+<pb n="18" facs="tcp:168433:11"/>thy own rule they do not belong to maſters, but ſervants; and the ſervants of Melchiſedechs order, who are Miniſters of the Goſpel, they n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither do, nor never did demand them, but will be content with Goſpel wages: If we have food and rayment, let us be therewith content, 1 <hi>Tim.</hi> 6.8.</p>
+               <p>Hale. <hi>And thou ſayeſt, I might inſtance the Sacraments of old under the Law.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Where is now thy modeſty that thou talks of in the Title page of thy Book, in which thou propounds thy ſtuff? It is far from modeſty to make lies, and here thou d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt both make and inſtance lies, for there is no ſuch thing as a Sac ament ever men ioned in all the time under the Law, therefore that is not Law and teſti<g ref="char:EOLhyphen"/>mony proof, then wilt ſure give no credit to it for ſhame, leſt thou make thy ſelf a lyar; and thou muſt here either prove thy ſelf a lyar, or thy book a cheat; for in page 25. thou ſayeſt, if it be no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law and Teſtimony proof, thou will give no credit to it: and here confider whoſe princi<g ref="char:EOLhyphen"/>ples thou makes to q ake.</p>
+               <p>Hale. <hi>And thou talks of two Sacraments more, and calls them thoſe two Sacraments that Chriſt inſtituted.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> thou here again wants that mode<g ref="char:EOLhyphen"/>ſty that thou talks of in thy Title page of thy book, to pro<g ref="char:EOLhyphen"/>pound thy ſtuff in, for here thou haſt propounded two lies, and thou caſt them on Chriſt, which is furtheſt of all from modeſty for thee to bely Chriſt; for Chriſt never ſpake of ſuch a thing as a Sacrament in all the Scriptures, but thy grandfather the Pope invented S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>craments, and you plead for a remnant of them; but the Pope and all his Sacra<g ref="char:EOLhyphen"/>ments we do deny, and the true Baptiſm and the Lords Supper according to Scripture we own.</p>
+               <p>Hale. <hi>And thou haſt wreſted the Scriptures ſo long by thy curſed meanings added to them, to di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>prove the Apo<g ref="char:EOLhyphen"/>ſtle, who ſaid there is verily a diſanulling of the Command<g ref="char:EOLhyphen"/>ment going before, and he lays down the reaſon, for the
+<pb n="19" facs="tcp:168433:11"/>weakneſs and unprofitableneſs th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 7.18. <hi>ye thou having thy underſtanding darkned, thou breaks forth and ſaith, where lies now the diſanulling of the Command<g ref="char:EOLhyphen"/>ment, except in the ſenſe before mentioned, ſayest thou?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay the diſanulling of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he commandment ſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s now in the blood of Chriſt, the everlaſting Covenant of light, life, and peace, where i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtood before thou begun to wreſt theſe Scriptures to thy own deſtruction.</p>
+               <p>Hale. <hi>For as to the total annihilating, diſanulling, or deſtroying the Law, our Saviour diſclaims it in his own words, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, what cunning crooked turns and ginns the ſerpent takes in thee, to ſmite the innocent with thy tongue! Here thou leaves forth our words, and mentions what will make for thy wicked purpoſe, and thou gives an anſwer to that; and then ſayeſt, it is an anſwer to the Quakers paper: Was there ſuch a word in all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t p per, as that the Law is deſtroyed? Wilt thou ſuffer the Divel forge his lies upon thy heart, and then make thy ſelf his ſervant to caſt them upon us by his and thy Diveliſh in<g ref="char:EOLhyphen"/>chantments? Did Chriſt ever diſclaim the changing of the Law and Prieſthood, or the diſanulling of the command<g ref="char:EOLhyphen"/>ments going before? and that was the thing we ſpoke of, and not the deſtroying of the Law, as the paper it ſelf in thy book printed ſtands a witneſs againſt thee.</p>
+               <p>Hale, <hi>And thou ſayeſt the Miniſters of the Goſpel are ſervants of Melchiſedechs order.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Miniſters of the Goſpel be ſer<g ref="char:EOLhyphen"/>vants, then that is one clear mark by which they may be known from thoſe hypocrites, dogs, and hirelings that have greetings in the markets, and are called of men Maſter: Doth this make the Quakers principles quake, or it cuts your own principles down, let all judge? That this is the thing that the Quakers do affirm, that the Miniſters of the Goſpel ſhould not be called maſters, but ſhould be ſer<g ref="char:EOLhyphen"/>vants;
+<pb n="20" facs="tcp:168433:12"/>Therefore ſee thou write the Prieſt of <hi>Leverpool,</hi> Maſter <hi>Fogge</hi> no more in thy Books, leſt thou ſhame him.</p>
+               <p>And thou pleads, <hi>That Tythe of Divine Right belongs to the Miniſters of the Goſpel.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> That is the thing that thou haſt yet to prove, I deny it.</p>
+               <p>Hale. <hi>And thou ſayeſt, the way, form, and kinde in which the Miniſters wages ought to be paid, is not ſo clear from the New Teſtament as from the Old.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, the way, form, and kind in which the Miniſters wages ought to be paid, is as clear from the new Teſtament, as Tithes was from the old; but the greedy Dogs and hirelings will not be content with the wages that Chriſt appointed to the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel: Is it not written, Provide neither gold, nor ſil<g ref="char:EOLhyphen"/>ver, nor braſs in your purſes, nor ſcripps for your jour<g ref="char:EOLhyphen"/>ney, neither two Coats, nor ſhooes; for the workman is worthy of his meat. <hi>Matth.</hi> 10.9. and 10. <hi>Luke</hi> 10.7, 8. Eat ſuch things as they give, for the Lab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urer is wor<g ref="char:EOLhyphen"/>thy of his hire: And into whatſoever City ye enter, and they receive you, eat ſuch things as is ſet before you. Thus you ſee that the hire or wages that the Lord appointed, was to eat, and be ſatisfied, as before mentioned, they ſhould not provide afore-hand, but as the Lord appointed them, yea to a coat or ſhooes, they were not to go beyond his appointment, but to be content with ſufficiency for the preſent; therefore I ſay unto you, Take no thought for your life, what ye ſhall eat, or what ye ſhall drink, nor yet for your Body, what ye ſhall put on. <hi>Mat.</hi> 6.25. and <hi>verſe</hi> 28. Why take ye thought for rayment? Conſi<g ref="char:EOLhyphen"/>der the Lillies of the field, <hi>&amp;c.</hi> and <hi>verſe</hi> the 30, 31, and 32. O ye of little faith. Therefore take no thought, ſaying, What ſhall we eat? Or what ſhall we drink? Or wherewithal ſhall we be clothed? For after all theſe things do the Gentiles ſeek; and ſo forth. Thus we ſee
+<pb n="21" facs="tcp:168433:12"/>the Miniſters wages ought to be paid, ſet down by Chriſt himſelf; and me-thinks Chriſts own words ſhould take place with thee; but indeed it is the Prophet ſaid, the Dogs will never have enough, <hi>Iſa.</hi> 56.10, 11. but tell me if this wages that Chriſt appointed for the Min<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters of the Goſpel, had been of a greater value, or a greater proporti<g ref="char:EOLhyphen"/>on, and had exceeded tythes in proportion, as far as tythes exceed a ſufficient maintainance of food and rayment, doſt thou not believe that thoſe called Miniſters in England would have pleaded up the maintenance that Chriſt had appointed, as highly as they now do Tythes, and have de<g ref="char:EOLhyphen"/>nied Tythes, as clearly taken away, except they could have had both? Let all conſider this.</p>
+               <p>Hale. <hi>So then, we ſee it pleaſed the moſt wiſe God, whoſe is the earth, and the fulneſs thereof, to appoint ſuch a pro<g ref="char:EOLhyphen"/>portion as the tenth part, both before the Law, and under the Law, and never after expreſly did take it off, ſaith thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, to that which thou calls before the Law, I ſhall anſwer thee in due time, if God will; and that which thou call under the Law, I ſay God did not appoint it for the Prieſts only, but for a due preparation f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r meat and drink for the ſtrangers, widdow, and fatherleſs, and the Levite, becauſe he had no inheritance among the reſt of the people, he was not to be forſaken, but to eat and be ſatisfied, as well as the ſtrangers, widdows, and fatherleſs; <hi>Deut.</hi> 14.27, 28, 29. and in <hi>Mal.</hi> 3.10, it is again clear<g ref="char:EOLhyphen"/>ly proved, that tythes was appointed for a due and full how Chriſt not only forewarned his Miniſters that they ſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld not poſſeſs gold nor ſilver, but alſo forewarn them that they ſhould not provide before-hand for food and rayment; and we find them as truly obſerving it: If we have food and rayment, let us be therewith content: 1 <hi>Tim.</hi> 6.8. and the workman is worthy his meat, ſaith Chriſt; Is not here a clear way, form, and kind, in which
+<pb n="22" facs="tcp:168433:13"/>preparation for meat in the Lords houſe; Bring ye all the tythes into the ſtore-houſe, that there may be meat in my houſe, ſaith the Lord; and the ſons of <hi>Levi</hi> who receiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the office of the Prieſthood, they might by that command<g ref="char:EOLhyphen"/>ment take tythe of the people according to the Law, whileſt that Commandment was of force, but this doth not make that the Miniſters of the Goſpel ſhould t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke tythes, and contrary to that commandment or cuſtome in thoſe days, purloyn it to their own ends, and ſpoyl, de<g ref="char:EOLhyphen"/>fraud, and oppreſs the poor ſtrangers, widdows, and fa<g ref="char:EOLhyphen"/>therleſs, by tyranny, cruelty, and oppreſſion, and then creep into their particular houſes, and live like fed hoggs, of that which poor men labours for in the ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at of their brows, and ſomtimes with thin coats, and ſlender diet, and truly the Prieſts of <hi>England</hi> have exceeded their fore-fathers, all the falſe Prophets, dogs, and hirelings that ever went before them, in tyranny, and abominable o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preſſion, in ſueing men at Law for Tythes, and ſomtimes valuing the thing near to twice the worth, and then take treble damage, ac<g ref="char:EOLhyphen"/>cording to that unjuſt valuation, and ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ze upon their goods, and take them away upon that unjuſt account, which is contrary to the juſt Law of the Nation: This was done by Prieſt <hi>Whithed</hi> for one amongſt the reſt, prieſt at <hi>Halton</hi> in Lancaſhire, near Lancaſter, and haling mens bodies into Priſon, and the like ſavage Tyranny as was ne<g ref="char:EOLhyphen"/>ver done by any of the falſe Prophets their fore-fathers, and thus lives the hirelings in England, inſtead of feeding the poor with Tythes, they ſpoil the poor for Tythes: now the Prieſts under the Law were to eat and be ſatisfied, even ſo hath the Lord ordained, that they that preach the Go<g ref="char:EOLhyphen"/>ſpel, ſhould l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve of the Goſpel, for the workman is worthy of his meat, <hi>Mat.</hi> 10.10. And, have we not power to eat and to drink, ſaith the Apoſtle 1 <hi>Cor.</hi> 9.4. and again, it is written in the Law of Moſes, Thou ſhalt not muzzle the mouth of the Ox that treads out the corn: Now we
+<pb n="23" facs="tcp:168433:13"/>know, and I hope ſo do you all, that the manner of that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mple of the Ox<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, that he ſhould eat end be ſatisfi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and not to have a great deal more then is need ul, to ſpoil and lie by him, whileſt the reſt of the exen were l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke to ſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with want; I ſpeak this by way of compariſon, I know the Apoſtl s ſpoke for the Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſters ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke only, and I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo do you all, that their mouths might not be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſled or ſtraitned, to eat and be ſatisfied, and have a ſufficiency for fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayment: I pray you ſee this c mpariſon of the Ox<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Thou ſhalt not muzzle the mouth of the Ox, <hi>&amp;c.</hi> and compare it with other Scriptures, and you ſhall prau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly ſee, that Gods miniſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers that he appointed to wait on his ſervice, were only to have a ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fficiency for food a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d rayment, and were t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herewith ſatisfied and content; and you ſhall find that the Tythes were appointed for a due preparation of meat in the Lords houſe, and the great<g ref="char:EOLhyphen"/>eſt part for the maintenance of the poor ſtrangers, wid<g ref="char:EOLhyphen"/>dows, and fatherl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs, and the Levi e, becauſe he had no inheritance with the reſt of the people, he was not to be forſaken, but to eat and be ſatisfied. Now I ſay, com<g ref="char:EOLhyphen"/>pare that of the Ox, Thou ſhalt not muzzle the mouth of the Ox, compare it with 1 <hi>Cor.</hi> 9.7. Who plants a Vin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard, and eateth not of the fruit hereof; or who ſeeds a flock and eateth not of the milk of the flock? and ver. 4. Have not we power to eat and drink? and having food and rayment, let us be therewith content; 1 <hi>Tim.</hi> 6.8. compare th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe with <hi>Deut.</hi> 14. and the 29. The Levite becauſe he hath no part nor i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heritance with thee, and the ſtranger, and the fatherleſs, and the widdow, which are within thy gates, ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll come, and ſhall at, and be ſatisfi<g ref="char:EOLhyphen"/>ed; Thus you ſee, that all along both under the Law and Goſpel, Gods miniſters were to have a ſufficiency for food and rayment, and were therewith to be ſatisfied and con<g ref="char:EOLhyphen"/>tent: and here in <hi>Deut.</hi> 14.26. the Levite was to eat, and he was then to be ſatisfied: Obſerve theſe words,
+<pb n="24" facs="tcp:168433:14"/>Even ſo hath the Lord ordained, that they which preach the Goſpel, ſhould live of the Goſpel; and having food and rayment, let us be therewith content, ſaith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Apo<g ref="char:EOLhyphen"/>ſtle: But I ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the dogs will never be coatent, for they will never have enough, ſaith the Prophet, <hi>Iſa.</hi> 56.10, 11. and if a man ſhould throw all the meat that he had amongſt many dogs, they would fall out about it. I pray you ſee what your Prieſts do about Viccarages, Parſonages, and the like gains which they ſeek from their quarters, do they not fall out about them? and it is no new thing to be troubled with ſuch greedy dogs as ſeeks their gains from their quar<g ref="char:EOLhyphen"/>ters, it is as old as Iſaiahs Propheſie, proveable; and I ſay, he that takes more then food and rayment for preach<g ref="char:EOLhyphen"/>ing, he is out of the example of the Goſpel Miniſters, and in the example of the dogs that <hi>Iſa</hi> ſpeaks of, and ſo one of them ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king gain to himſelf.</p>
+               <p>Hale. <hi>And thou ſaith that God appointed the tenth part to be paid under the Law.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> So did God appoint outward Circumciſion un<g ref="char:EOLhyphen"/>der the Law.</p>
+               <p>Hale. <hi>But God appointed the tenth part to be paid before the Law, ſaith thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay, that ever God appointed it before the Law, that is left to thee to prove where, and when, and by what rule or command he appointed it; and I ſay, God did not onl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appoint Circumciſion, but he gave <hi>A<g ref="char:EOLhyphen"/>braham</hi> an expreſs command not to neglect it, he nor his ſeed after him, in all their generations: And the uncir<g ref="char:EOLhyphen"/>cumciſed man-child, whoſe fleſh of his foreskin is not cir<g ref="char:EOLhyphen"/>cumciſed, that ſoul ſhall be cut off <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m his people, he hath broken my Covenant ſaith the Lord, <hi>Gen.</hi> 15. from the tenth to the fourteenth, and this you can well agree to, that the outward practiſe thereof is taken out of the way, blotted oat, and nailed to the Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs; for this would bring you little gains from your quarters, but Tythes you
+<pb n="25" facs="tcp:168433:14"/>ſay muſt needs of Divine Right be kept up but if it be not for filthy luc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſake, let all honeſt hearts conſider.</p>
+               <p>Hale. <hi>And thou affirms that tythes, or the tenth part, was never expreſly tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n off.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay Tythes are as fully taken off, and it is as provea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le as the worſhip is from the ſeventh day, and as outward Circumciſion is taken off to all that believe that the Lord Jeſus Chriſt ſuffered for mans redemption, and role again the third day; for one and the ſame Chriſt that finiſhed and took off the one, he finiſhed and took off the other at the ſame time, for ſaith the Apoſtle, Blotting out the hand-writing of ordinances, and nailed it to his Croſs; <hi>Col.</hi> 2.14. and having aboliſhed in his fleſh the enmity e<g ref="char:EOLhyphen"/>ven the Law of Commandments contained in ordinances, <hi>Eph.</hi> 2.15. and again, If ye be dead with Chriſt from the rudiments of the world, why as though living in the world are ye ſubject to ordinances? So we ſee that the hand<g ref="char:EOLhyphen"/>writing of ordinances is not only blotted out, and nailed to the croſs, <hi>Col.</hi> 2.14. and the law of commandments contained in ordinances aboliſhed, <hi>Eph.</hi> 2.15. but the Apoſtle ſo clearly diſclaims all outward dead ordinances, that he demands of him a queſtion why they would be ſubject to ordinances? <hi>Col.</hi> 2.20. ſo it is clear to all who do not make themſelves wilfully blind, that the ordinance of tythes, as well as other things is blotted out, ta<g ref="char:EOLhyphen"/>ken off, and the practiſe of them clean given over, either receiving or demanding of them, till the Pope brought them up again for the maintenance of Prelats, Prieſts, Je<g ref="char:EOLhyphen"/>ſuits, Monks and Friars and now the hirelings cries loud for them.</p>
+               <p>Hale. <hi>Beſides this, Abraham in whoſe loyns Levi was, paid Tythes to Melchiſedec before the Law was given, ſaith thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I ſay <hi>Abraham</hi> freely gave a gift to <hi>Melchiſe<g ref="char:EOLhyphen"/>dec,</hi> and he might have kept it ungiven, without breaking
+<pb n="26" facs="tcp:168433:15"/>any command of God for any thing that we read of, and ſeeing thou haſt appealed to that free gift, firſt ſee the cauſe that brought it to paſs in the outward, and do thou begin in order as tythes came to <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lchiſede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and let the Prieſts of <hi>England</hi> have no tythes, till tythes come to them as it came to <hi>Melchiſedec.</hi> Firſt <hi>Abraham</hi> had been at the purſuit and ſlaughter of them that had ſpoiled the Country, and he brought back the people and the ſpoils, and Melchi<g ref="char:EOLhyphen"/>ſedec d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>manded no tythes, but came to bring a gift and he bleſſed <hi>Abraham,</hi> and <hi>Abraham</hi> pleaſed to give him ſuch a proportion as the tenth part of the ſpoils only at that one time, and why might not <hi>Abraham</hi> have kept all the ſpoils to himſelf if he had pleaſed? or why might he not have given all the ſpoils to Melchiſedec if he had pleaſed? and if he had given Melchiſedec all the ſpoils, would you have made that a pattern for the Prieſts of <hi>England</hi> to take all their creaſe in <hi>England?</hi> What might the reſt of the people have had then? and if this of Melchiſedec be the order that you would make a rule for the Prieſts to receive tythes by, you muſt rather expect them from the Souldi<g ref="char:EOLhyphen"/>ers, and ſuch as go forth to purſue and ſlay th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enemies, and reſcue the people and ſpoils, and bring them ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, then to expect them from Farmers, Husbandmen, and ſuch like: Melchiſedec received not tythes of the yearly increaſe of Farmers and Husbandmens eſtates, but a free gift out of the ſpoils that was taken in a fight, and that only at one time; and if you do but ſtick to this order, when any ſpoil is brought back in England, as Abraham brought them back, if the Prieſts then come and bring a gift, and a bleſ<g ref="char:EOLhyphen"/>ſing, as Melchiſedec did, and keep in Melchiſechs order, and demand no more tythes then he did, then if any man give them a gift, as Abraham did to Melchiſedec, whether they give them the tenth part, leſs or more, for any thing I know, they may receive it without offence; I do not ſpeak a free gift when it is freely given, but we ſpeak againſt
+<pb n="27" facs="tcp:168433:15"/>ſuch as ſeeks after gifts and rewards, and when they can<g ref="char:EOLhyphen"/>not have it freely given, they will compel men to give in, or elſe they will take it by fore; it is ſuch as theſe that we ſpeak againſt.</p>
+               <p>Hale. <hi>And when thou haſt raked through the Scriptures to prove (if thou could) that Tythes is due to the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, but cannot find one example in the Bi<g ref="char:EOLhyphen"/>ble where any of them did either receive or demand tythes, thou art at laſt ſo driven from chamber to chamber to hide thy ſhameful Argument, that at laſt thou flies to the muckieſt hole of all; and ſayeſt, Now if any be not yet ſatisfied in this point, I refer him to the labours of a learn<g ref="char:EOLhyphen"/>ed Divine in his time, to wit Biſhop</hi> Hall, <hi>who in a little Treatiſe of his called</hi> Practical caſes of Conſcience, <hi>doth at large reſolve this great controverſy about tyths,</hi> ſaith thou.</p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> All who have the eye of diſcern<g ref="char:EOLhyphen"/>ing open in any meaſure, may here ſee what a poor ſhame<g ref="char:EOLhyphen"/>ful ſhuffle thou makes, and what a ſhameful end thou haſt brought thy ſhameful Argument to at laſt, that is driven out of all Scripture, and cannot find one example in it all, but flies to the Biſhop caſes for a refuge to hide thy de<g ref="char:EOLhyphen"/>ceipt with, in pleading for Tythes: I pray thee, Was not Biſhops voted down long ſince by many in <hi>England,</hi> and ſome of them put to death for the unjuſt couſes that they made and maintained? and are thou now pleading the Biſhops caſes up again, that thou may gee a refuge among them, to hide thy deceitful caſes in pleading for Tythes? the Biſhops made caſes more for their own ends, then for Conſcience ſake; and wo to you that makes caſes, to compel men of tender conſciences to do things contrary to the light of Chriſt in the Conſcience, if you could.</p>
+               <p>Hale. <hi>And from page</hi> 20 <hi>to the</hi> 25. <hi>thou art wrangling to and fro about perfection, and it ſeems thou knows not what thou would make of it: and in page</hi> 21. <hi>thou ſayeſt, I ſhall now proceed to the direct anſwer of your queſtion, to
+<pb n="28" facs="tcp:168433:16"/>wit, whether perfection be attainable in this life, yea or nay, you ſay it is, I ſay it is not, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Where is now thy modeſty that thou talked of in the Title page of thy book? What a wrangling, and j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngling, and cavelling; What ſaying and unſaying of a thing thou makes here? Did thou not ſay in the 7. page line 14. that the Miniſters work is for the per<g ref="char:EOLhyphen"/>fecting of the Saints? and now thou ſayeſt that perfecti<g ref="char:EOLhyphen"/>on is not attainable in this life: I pray thee where muſt the Miniſters perfect the Saints if not in this lif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? Art thou one of thoſe that holds a Purgatory? Thou begins to ſmell very like the Pope, in that thou ſayeſt perfection is not at<g ref="char:EOLhyphen"/>tainable in this life; and yet confeſſes that the Miniſters work is for the perfecting of the Saints.</p>
+               <p>Hale. <hi>And then thou ſayest, Perfection is not attain<g ref="char:EOLhyphen"/>able in this life, except we take along with us theſe follow<g ref="char:EOLhyphen"/>ing limitations.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Thou haſt here again unſaid what thou ſaid before; for before thou ſaid (without if or and) plainly, that perfect on is not attainable in this life, and now thou grants a poſſibility of attaining to it in this life, if we would take along with us thy limitations, which in<g ref="char:EOLhyphen"/>deed is nothing elſe but thy vain fancies and imaginations, without either ground or foundation.</p>
+               <p>Hale. <hi>And in page</hi> 25. <hi>line</hi> 2. <hi>thou ſayeſt indeed, that Chriſt is perfection itſelf.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale.</hi> How will this agree with thy former aſſertion, to wit, That perfect on is not attainable in this life? Doſt thou affirm that Chriſt is not attainable in this life, for thou ſayeſt Chriſt is perfection it ſelf? now I ſay, If Chriſt be perfection it ſelf, and if perfection be not attainable in this life, by this thou makes void all la<g ref="char:EOLhyphen"/>bouring and ſtriving to attain to Chriſt in this life; who ſaid, Come unto me all ye that are weary and heav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e la<g ref="char:EOLhyphen"/>den, and ſo you that are without perfection in this
+<pb n="29" facs="tcp:168433:16"/>life, you are without Chriſt in this life, by thy own con<g ref="char:EOLhyphen"/>feſſion.</p>
+               <p>Hale. <hi>And thou ſayeſt, Who-ever thou art that boaſteſt of ſtanding upon the feet of thy own perfection, I ſay unto thee in the name of the Lord, if thou ſtandeſt at all, thou ſtandest by Faith: Be not high minded, but fear; ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> When wilt thou ceaſe from this ſecret ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndering, and cunning fly ginns that thou haſt to utter thy deceitful and hard ſpeeches againſt us in? for I ſee the Divels drift in thy words, is to preſent us to the world as they that boaſted of their own perfection, and all ſuch boaſting and boaſters we do deny, both in word and thought, and before Gods Judgement ſeat do I ſtand juſtified in this thing; and when the Book of Con<g ref="char:EOLhyphen"/>ſcience is opened, thou ſhalt find this true; and then ſhalt thou, with the reſt of <hi>Cains</hi> and <hi>Iſhmaels</hi> brood, receive a juſt reward for all your hard and ſcornful ſpeeches againſt us: And the perfection which we own, is the perfect righteous glory of God in Chriſt, manifeſted in the crea<g ref="char:EOLhyphen"/>ture, which is attained unto, and enjoyed by the faith of the Son of God in the light abiding, and not elſe, there<g ref="char:EOLhyphen"/>fore unknown to thee; and all ſelf righteouſneſs and per<g ref="char:EOLhyphen"/>fections we do utterly deny.</p>
+               <p>Hale. <hi>And thou reckons up four perfections one after another in the</hi> 21 and 22 <hi>pages: Firſt, Thou ſayeſt there is an imputative perfection. Secondly, There is perfe<g ref="char:EOLhyphen"/>ction in part, ſayeſt thou. And thirdly, There is a com<g ref="char:EOLhyphen"/>parative perfection. And fourthly and laſtly, There is an abſolute perfection ſayeſt thou. And three of them thou wilt acknowledge to be attainable in this life, and the fourth unattainable. All which I ſhall by the aſſi<g ref="char:EOLhyphen"/>ſtance of God make clear by Scripture, and that very brief<g ref="char:EOLhyphen"/>ly, ſayeſt thou.</hi>
+               </p>
+               <pb n="30" facs="tcp:168433:17"/>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Here again thou wants that mod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſty that thou ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaks of in the Title page of thy book to propound thy ſtuff in, for here thou was more brief and haſty, then e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther modeſt or wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, in ſaying thou would make it cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar by Scripture that there is four perfections: I ſay there is no Scripture that ſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks of four perfections, thou may prove it as ſoon as thou can, and by what thou can; for if there be four perfections, they are more then we own, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver ſpoke of, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver knew of, by three of them; and thou ſayeſt that three of them is at a n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble in this life: and when we ſay there is but one perfection at<g ref="char:EOLhyphen"/>tainable in this life, you are angry with us, and de<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it, and ſome will ſay it is blaſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emy, yet in thy mo<g ref="char:EOLhyphen"/>deſty haſt propounded three for your ſelves: I ſay, thoſe three ſtrange perfections that thou talks of, ſhall be for your ſelves, for we own no perfection but one, and that is the perfect righteous glory of God in Chriſt Jeſus, the everlaſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng covenant of life, light, and peace, given by the meaſure of the giſt of Chriſt the light, and manifeſt in the creature, to the glory of the praiſe of God, and the leaſt meaſure of that is perfect, and what is perfect is ab<g ref="char:EOLhyphen"/>ſolutely perfect, according to the meaſure of the gift of God, and the gift of God is abſolutely perfect, and there is no image or likeneſs to be made of perfection; he that calls any thing elſe perfection, is an Image-maker, and a Wizard.</p>
+               <p>Hale. <hi>And in page the</hi> 22. <hi>thou ſayeſt, There is an ab<g ref="char:EOLhyphen"/>ſolute perfection, when the members ſhall be made like Chriſt our Head, when we ſhall be glorified together with him, when theſe vile b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dies ſhall be made like his glorious body, ſayeſt thou; but I ſay, obſerve theſe following words, when all the remainders of corrupt nature ſhall be conſumed in Gods furnace (I mean the grave, ſayeſt thou.)</hi>
+               </p>
+               <pb n="31" facs="tcp:168433:17"/>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Here let all take notice that thou haſt affirmed that perfection is not attainable till all the remainders of corrupt nature ſhall be conſumed in Gods fornace, and let them take notice that thou ſayeſt thou means the grave: I ſay, here we ſmell the evil factor of the Pope in thee, and by this thou lays open and plain your ſecret ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le masked pop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, which you hold up; and truly thou haſt dealt more plainly and honeſtly, then the old Serpent will do in many of you, in that thou haſt told us of a furnace, in which the remainders of your corrupt nature muſt be conſumed, before that you can be perfect, and ſayeſt thou means the grave: for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere thou haſt fully unmasked Antichriſt and the Pope in you, that he be<g ref="char:EOLhyphen"/>gins to appear in his own colours, and it is no marvel if you deny perfection in this life, that hopes for a furnace in the grave, to c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſume the remainders of your corrupt nature in; but I pray thee how far lies that furnace that thou talks of in the grave from the Popes purgatory? and what difference between them? and whether it is not the ſame, yea or nay? though thou would colour it over with another name put upon it, and ſo if it were poſſible thou would deceive the very elect with it; but is that furnace that thou talks of in the grave the power by which thou wilt make the Quakers principles ſo to quake, that thou ſo highly boaſts or in Titleing thy book Quakers principles quak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng? But if whilſt thou haſt gone about to make the Quakers principles quake, I ſay, if that while thou haſt not brok<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n thy own in pieces, let all who have the eye of diſ<g ref="char:EOLhyphen"/>cerning conſider it.</p>
+               <p>Hale. <hi>And whereas thou talks of Chriſt your head, and you his members, for thou ſayeſt, when we the members ſhall be made like Chriſt our head.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> Thou may own the Pope for thy head whilſt thou talks of a furnace in the grave; and for
+<pb n="32" facs="tcp:168433:18"/>Chriſt, thou haſt put him at a great diſtance from you, in that thou ſayeſt Chriſt is perfection it ſelf, and yet ſaith perfection is not attainable in this life; here by thy own words Chriſt whom thou ſayeſt is your head, and thou ſayeſt he is perfection it ſelf, and you members muſt ne<g ref="char:EOLhyphen"/>ver meet together whilſt you are in this life; Thus thou haſt put a great diſtance between Chriſt and you, in that thou ſayeſt Chriſt is perfection it ſelf, and yet ſaith, perfecti<g ref="char:EOLhyphen"/>on is not attainable in this life.</p>
+               <p>Hale. <hi>And in page</hi> 25. <hi>thou art talking of a full an<g ref="char:EOLhyphen"/>ſwer to our paper.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> if thou wilt anſwer it fully, when will thou anſwer that part of it about the Prieſts, that if they will take tythes, they ſhould feed the poor ſtrangers, widdows, and fatherleſs with them; but it was the pra<g ref="char:EOLhyphen"/>ctice of <hi>Judas</hi> who was a thief, and betrayed Chriſt, to plead hard for ſomthing to put in the bag, but he cared little for the poor; it ſeems no more doſt thou; and truly <hi>Judas</hi> ſeemed to have more honeſty then we find in thee; for he ſaid, the oyn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment might have been ſold, and given to the poor; but thou haſt not ſo much as once mentioned that the Prieſts ſhould ſeed the poor with the Tythe, but have all to the hirelings.</p>
+               <p>Hale. <hi>And in page</hi> 26. <hi>thou art talking of the Saints aſſemblies, and a place where God hath promiſed his more eſpecial preſence, the Church of God, the pillar and ground of Truth, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> for the Saints aſſembl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, let them alone, thou haſt nothing to do with them, thou muſt firſt come out of the Pop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s opinions, there was never none of the Saints that hoped for a furnace in the grave, to conſume the remainders of corrupt nature in; thou, and all that doth ſo, are of the Popes Aſſemblies; and for the Church of God, it is in God, 1 <hi>Theſ.</hi> 1.1. and that is not the
+<pb n="33" facs="tcp:168433:18"/>ſteeple-houſe, nor any other limitted place ſet up in the will of man: and for the pillar and ground of truth, what haſt thou to do to talk of it, thou knoweſt nothing of it, thy pillar and ground is the pillar and ground of deceit, who talks of a furnace in the grave.</p>
+               <p>Hale. <hi>And thou ſayeſt it is truly deſired of all Gods peo<g ref="char:EOLhyphen"/>ple, that there were no corruption in your Churches, as thou calls them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> How came thou to know that G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds people deſired it, except ſome of them have told thee ſo? for there was never none of Gods people that talked of a furnace in the grave, as thou doeſt.</p>
+               <p>Hale. <hi>And thou ſayeſt there will be Tares amongſt the wheat, and it is the Lord of the Harveſt his Decree, that they ſhall grow together till the Harveſt.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> of the moſt wicked and curſed Tares that cumbers the wheat, thou haſt manifeſted thy ſelf to be one, in that thou talks of a furnace in the grave, and thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat knows not and ſees not the Harveſt come, thou a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t that curſed and blaſted Tare, on which the mil<g ref="char:EOLhyphen"/>dew is fallen; and from henceforth ſhalt thou find thy withering and decay, except with ſpeed thou repent.</p>
+               <p>Hale. <hi>I ſhall be far from judging any of you, ſaith thou; and again, I judge you not, ſayest thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw</hi> I ſay, that is a ſubtle Curr that wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l bite when he fawns; and if thou doſt not judge us to be ſuch as have broken and rent our ſelves from the Church of God, and the Body of Chriſt, if thou doſt not judge us to be ſuch, why doſt thou term us to be ſuch in thy Book? Is not this double deceit and hypocriſie that is lodged in thee? Firſt to judge us unjuſtly and falſly, and then to ſay thou wilt not judge us? But it is the manner of an old Sophiſter, to cover that in himſelf, and lay it on others, which he is mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> guilty of himſelf.</p>
+               <pb n="34" facs="tcp:168433:19"/>
+               <p>Hale. <hi>And in page</hi> 27. <hi>thou ſayeſt, Thou deſires that we may be careful to try the Spirits, whether they be of God or no; for many falſe Spirits, as well as falſe Pro<g ref="char:EOLhyphen"/>phets, are gone out into the world, ſayeſt thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> a more falſe Prophet then thou art, and a more falſe Spirit then thou ſpeaks from, can ſcarce be gone forth into the world, in that thou talks of a furnace in the g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all may re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in thy Book, page t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 22. and ſeeing thou haſt bidden us Try the Spirits, we have tryed thine, and we fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it to be a falſe popiſh Spirit, and therefore we ſhall take heed of thee.</p>
+               <p>Hale. <hi>Thou ſayeſt thou heartily wiſheth that we may return and joyn our ſelves to the Communion of the Saints in the Publique Ordinances of God, that we may have a ſweet fellowſhip and communion with the Father and tho Son, as ever we had before your going out from us, ſayest thou.</hi>
+               </p>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> both thee, and all that are in fel<g ref="char:EOLhyphen"/>lowſhip with thee in thy popiſh opinions, who call your ſelves ſaints, and are not, and your communion, and your fellowſhip, and your publique ordinances, as you call them, and your Father, and that Son that leads you to hope for a furnace in the grave, I do deny, both you and them all; for that Father is the Father of lies, and that Son is the Son of perdition, and thoſe Ordinances are dead, and carnal, and popiſh, that leads you into ſuch things.</p>
+               <p>Hale. <hi>And with which I will conclude, ſayeſt thou, If either you, or any man or men teach otherwiſe, and conſent not to the wholſome words of our Lord and Saviour Jeſus Chriſt, and the Doctrine which is according to godlineſs, let him pretend as much humility as he can, he is proud, knowing nothing, but doteth about queſtions, and ſtrife of words, whereof cometh envie, railing, evil ſurmiſings.</hi> 1 Tim. 6.3, 4.</p>
+               <pb n="35" facs="tcp:168433:19"/>
+               <p>
+                  <hi>Anſw. Ralph Hale,</hi> if t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou might have mentioned <hi>Timothys</hi> words no more then thou had lived in <hi>Timothys</hi> life, thou had been as dumb as thoſe dogs that <hi>Iſaiah</hi> ſpeaks of; and I pray thee ſee how <hi>Timothys</hi> words meets with thee, who ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks of a furnace in the grave; is that accord<g ref="char:EOLhyphen"/>ing to the wholſome words of our Lord Jeſus C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and the doctrine which is according <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o godlineſs; or is it ac<g ref="char:EOLhyphen"/>cording to the Popes Doctrine? H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re be thy own Judge, and let ſhame ſtop thy mouth.</p>
+               <p>And now I ſay to ye all in and about <hi>Liverpool,</hi> and elſe<g ref="char:EOLhyphen"/>where, to the light of Chriſt, turn in your minds to that in the conſcience, which ſhews you ſin and evil, and check<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and reproves you in ſecret, for the evil of your ways, to th t take heed, that by it you may be guided up to God, from whence the light comes, as you tender your everlaſt<g ref="char:EOLhyphen"/>ing ſalvation; and if you neglect this, when the day of your trouble comes, in which you cry wo and alas, then remember that you were fore-warned in your life time, to that in your conſciences do I ſpeak, the light which comes from the Lord Jeſus Chriſt, and lighte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h every man that comes into the world, which is the Saints guide and teach<g ref="char:EOLhyphen"/>er to guide them up to God, and the ſure word of Prophe<g ref="char:EOLhyphen"/>ſie, to which they are to take heed; and if by it you be guided, it will lead you up to the Lord Jeſus Chriſt, and this is the way to ſalvation, the light, and there is no other way to ſalvation but Chriſt the light; and if you walk contrary to the light, then the light is your condemnation; and to you all this is the Word of Truth, witneſſed by that in all the conſciences ſhall it be, when the Book of Conſcience is opened; Remember this, and whilſt you have time prize it.</p>
+            </div>
+            <closer>
+               <signed>W. A.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
